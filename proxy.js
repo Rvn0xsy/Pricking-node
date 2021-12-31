@@ -41,7 +41,7 @@ app.use('/', createProxyMiddleware({
 
         // 处理跳转
         if(res.statusCode == 302){
-            newLocation = res.getHeader("location").replace(targetHost,"")
+            newLocation = res.getHeader("location").replace(gtargetHost,"")
             if (newLocation.indexOf("/") != 0){
                 newLocation+="/"
             }
