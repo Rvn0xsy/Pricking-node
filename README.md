@@ -12,10 +12,9 @@
 ### 快速开始
 
 ```bash
-$ npm install -g express
-$ npm install -g http-proxy-middleware
 $ git clone https://github.com/Rvn0xsy/Pricking-node.git
 $ cd Pricking-node
+$ npm install
 $ node proxy.js
 ```
 
