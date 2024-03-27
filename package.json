@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Rvn0xsy/Pricking-node#readme",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "http-proxy-middleware": "^2.0.6"
   }
 }
